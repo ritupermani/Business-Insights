@@ -149,7 +149,7 @@ Buttons to navigate to each report section:
 - Executive View
 - Support
 
-[<img src= "https://github.com/ritupermani/Business-Insights/blob/main/Reports/Home%20View.png">](https://app.powerbi.com/groups/71ad982d-fe26-4920-a2dd-202089128c6d/reports/86488942-32a9-4354-a3b3-0ca4f64f6e68/b6fdecc15634da113d14?experience=power-bi)
+[<img src= "https://github.com/ritupermani/Business-Insights/blob/main/Reports/Home%20View.png">](https://app.powerbi.com/view?r=eyJrIjoiYzdiNWI5YWYtYTAwYy00MThkLTg4NjEtZGU4YThmZTU0ODM3IiwidCI6IjUxZTYzYTMyLWVmY2MtNGVmMy05OWM0LWYwODhlODdhM2M2MiJ9)
 
 > Click the image above to explore the **interactive Power BI dashboard** live.
 
